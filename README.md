@@ -22,4 +22,12 @@ Due to Kodi limitations we created an API for the user to run on their local mac
   chmod +x requirements.sh
   ./requirements.sh
 ```
-    
+### Note
+- After you have ran requirements.sh and wish to update your movie info, you can simply run...
+```bash
+  python3 -m flask run
+```
+- And proceed to open QuickPicker:
+    - Select 'Mood'
+    - Select 'Update Movie Info'
+    - Select 'Yes'
