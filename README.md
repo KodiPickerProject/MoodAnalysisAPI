@@ -19,7 +19,7 @@ Due to Kodi limitations we created an API for the user to run on their local mac
 ```bash
   unzip MoodAnalysisAPI-main.zip
   cd MoodAnalysisAPI
-  chmod +x exec.sh
-  ./exec.sh
+  chmod +x requirements.sh
+  ./requirements.sh
 ```
     
