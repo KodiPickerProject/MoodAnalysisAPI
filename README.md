@@ -6,7 +6,7 @@ Due to Kodi limitations we created an API for the user to run on their local mac
 
 ## Installation
 
-- Download this repository as a .zip and place it in a folder on your local machine.
+- Download the latest release and place it in a folder on your local machine.
 - Unzip the folder, MoodAnalysisAPI-main.zip
 - Navigate to the directory of the unzipped folder and, make the script, requirements.sh executable and then run exec.sh.
 - Once all the dependencies are properly installed, run the flask app by using the following command, 'python3 -m flask run'
@@ -17,7 +17,7 @@ Due to Kodi limitations we created an API for the user to run on their local mac
     - Select 'Yes'
 
 ```bash
-  unzip MoodAnalysisAPI-main.zip
+  unzip MoodAnalysisAPI.zip
   cd MoodAnalysisAPI
   chmod +x requirements.sh
   ./requirements.sh
